@@ -1,5 +1,5 @@
 1. Leader create file: commit C1
-2. Leader update file: commit C2
+2. macbook edit
 3. Leader create group1: commit C3
 
 
