@@ -1,1 +1,2 @@
 1. Leader create file: commit C1
+2. Leader update file: commit C2
