@@ -4,3 +4,5 @@
 
 
 4. leader group1 create file: C1
+
+5. group4 add file
