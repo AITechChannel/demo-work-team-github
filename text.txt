@@ -1,8 +1,7 @@
-1. Leader create file: commit C1
-2. Leader update file: commit C2
-3. Leader create group1: commit C3
 
 
-4. leader group1 create file: C1
 
 5. group4 add file
+
+1. group4 edit master
+
