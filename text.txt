@@ -6,3 +6,4 @@
 4. leader group1 create file: C1
 
 5. edit on macbook
+6. update on macbook
